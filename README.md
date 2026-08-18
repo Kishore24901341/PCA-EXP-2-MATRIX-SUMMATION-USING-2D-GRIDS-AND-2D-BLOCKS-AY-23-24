@@ -1,7 +1,7 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
 
 
-<h3>NAME : KISHORE V S</h3>
+<h3>NAME : KISHORE V </h3>
 <h3>REGISTER NO : 212224240077</h3>
 <h3>EX.NO : 2</h3>
 <h3>DATE: 04-08-2026</h3>
